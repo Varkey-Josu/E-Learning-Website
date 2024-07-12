@@ -1,2 +1,2 @@
-# E-learning Website
+# E-Learning Website
  Landing page
